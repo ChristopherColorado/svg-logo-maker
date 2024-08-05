@@ -1,0 +1,16 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A logo maker cmd line app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^29.7.0"
+  }
+}
